@@ -5,10 +5,7 @@ import React from "react";
 const page = () => {
   return (
     <div>
-      <Header className="">
-        <p  className="text-white">text</p>
-      </Header>
-      <Editor/>
+     
     </div>
   );
 };
